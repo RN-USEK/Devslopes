@@ -1,5 +1,5 @@
 #### This Project ####
-.env.local
+*.local
 
 #### Security ####
 
